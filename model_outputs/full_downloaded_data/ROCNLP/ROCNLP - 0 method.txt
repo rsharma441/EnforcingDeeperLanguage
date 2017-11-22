@@ -1,0 +1,7 @@
+method_name: None
+method_description: None
+project_url: None
+publication_url: None
+bibtex: None
+team_name: None
+organization_or_affiliation: None
